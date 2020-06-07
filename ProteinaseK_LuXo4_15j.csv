@@ -1,0 +1,90 @@
+User;Score;Sample;Concentration;Plate Barcode;Drop;Platetype;Robot;Image Type;Run Date;screen;Components;;
+sengilberge;4;ProteinaseK_LuXo4;20;CD027795;F11-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:40;JCSG_MD;1M succinic acid;0.1M HEPES pH7;1% w/v PEG 2K MME
+sengilberge;6;ProteinaseK_LuXo4;20;CD027795;F01-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:40;JCSG_MD;0.05M Cesium chloride;0.1M MES pH6.5;30% v/v Jeffamine M-600
+sengilberge;4;ProteinaseK_LuXo4;20;CD027795;E05-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:40;JCSG_MD;0.1M CAPS pH10.5;40% v/v MPD;
+sengilberge;6;ProteinaseK_LuXo4;20;CD027795;D09-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:40;JCSG_MD;0.17M ammonium sulfate;25.5% w/v PEG 4K;15% v/v Glycerol
+sengilberge;6;ProteinaseK_LuXo4;20;CD027795;D07-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:40;JCSG_MD;0.2M lithium sulfate;0.1M tris pH8.5;40% v/v PEG 400
+sengilberge;6;ProteinaseK_LuXo4;20;CD027795;C09-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:40;JCSG_MD;0.1M sodium/potassium phosphate pH6.2;25% v/v 1,2-propanediol;10% v/v Glycerol
+sengilberge;4;ProteinaseK_LuXo4;20;CD027795;C05-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:40;JCSG_MD;0.1M sodium HEPES pH7.5;0.8M Sodium phosphate monobasic monohydrate;0.8M potassium phosphate monobasic
+sengilberge;6;ProteinaseK_LuXo4;20;CD027795;B09-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:40;JCSG_MD;0.1M citrate pH5;20% w/v PEG 6K;
+sengilberge;6;ProteinaseK_LuXo4;20;CD027795;A09-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:40;JCSG_MD;0.2M ammonium chloride;20% w/v PEG 3350;
+sengilberge;6;ProteinaseK_LuXo4;20;CD027795;A01-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:40;JCSG_MD;0.2M lithium sulfate;0.1M sodium acetate pH4.5;50% v/v PEG 400
+sengilberge;6;ProteinaseK_LuXo4;20;CD027795;G06-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:40;JCSG_MD;0.2M sodium malonate dibasic monohydrate;20% w/v PEG 3350;
+sengilberge;6;ProteinaseK_LuXo4;20;CD027795;H07-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:40;JCSG_MD;0.2M ammonium sulfate;0.1M Bis Tris pH5.5;25% w/v PEG 3350
+sengilberge;6;ProteinaseK_LuXo4;20;CD027795;G07-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:40;JCSG_MD;0.1M succinic acid;15% w/v PEG 3350;
+sengilberge;4;ProteinaseK_LuXo4;20;CD027795;G11-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:40;JCSG_MD;0.1M Bis Tris pH5.5;2M ammonium sulfate;
+sengilberge;6;ProteinaseK_LuXo4;20;CD027795;H03-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:40;JCSG_MD;0.1M Bis Tris pH5.5;25% w/v PEG 3350;
+sengilberge;6;ProteinaseK_LuXo4;20;CD027795;H08-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:40;JCSG_MD;0.2M sodium chloride;0.1M Bis Tris pH5.5;25% w/v PEG 3350
+sengilberge;6;ProteinaseK_LuXo4;20;CD027795;H09-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:40;JCSG_MD;0.2M lithium sulfate;0.1M Bis Tris pH5.5;25% w/v PEG 3350
+sengilberge;6;ProteinaseK_LuXo4;20;CD027795;H11-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:40;JCSG_MD;0.2M magnesium chloride hexahydrate;0.1M Bis Tris pH5.5;25% w/v PEG 3350
+sengilberge;4;ProteinaseK_LuXo4;20;CD028052;A04-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 02:53;Classics-Suite_qiagen;5%(v/v) isopropanol;2M ammonium sulfate;
+sengilberge;6;ProteinaseK_LuXo4;20;CD028052;H07-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 02:53;Classics-Suite_qiagen;0,2M ammonium sulfate;30 %(w/v) PEG 4000;
+sengilberge;6;ProteinaseK_LuXo4;20;CD028052;H05-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 02:53;Classics-Suite_qiagen;0,2M lithium sulfate;0,1M TRIS HCl pH8,5;30 %(w/v) PEG 4000
+sengilberge;6;ProteinaseK_LuXo4;20;CD028052;H01-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 02:53;Classics-Suite_qiagen;0,2M ammonium sulfate;0,1M sodium acetate pH4,6;25 %(w/v) PEG 4000
+sengilberge;*;ProteinaseK_LuXo4;20;CD028052;G11-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 02:53;Classics-Suite_qiagen;0,2M ammonium sulfate;0,1M sodium acetate pH4,6;30 %(w/v) PEG 2000 MME
+sengilberge;6;ProteinaseK_LuXo4;20;CD028052;F05-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 02:53;Classics-Suite_qiagen;0,5M lithium sulfate;15 %(w/v) PEG 8000;
+sengilberge;4;ProteinaseK_LuXo4;20;CD028052;E05-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 02:53;Classics-Suite_qiagen;0,1M TRIS pH8,5;12%(v/v) glycerol;1,5M ammonium sulfate
+sengilberge;6;ProteinaseK_LuXo4;20;CD028052;C02-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 02:53;Classics-Suite_qiagen;0,1M tri-sodium citrate pH5,6;1M ammonium phosphate;
+sengilberge;6;ProteinaseK_LuXo4;20;CD028052;B08-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 02:53;Classics-Suite_qiagen;0,5M ammonium sulfate;0,1M HEPES pH7,5;30%(v/v) MPD
+sengilberge;5;ProteinaseK_LuXo4;20;CD028052;A07-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 02:53;Classics-Suite_qiagen;0,1M tri-sodium citrate pH5,6;20%(v/v) isopropanol;20 %(w/v) PEG 4000
+sengilberge;6;ProteinaseK_LuXo4;20;CD028052;H08-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 02:53;Classics-Suite_qiagen;0,2M ammonium sulfate;0,1M MES pH6,5;30 %(w/v) PEG 5000 MME
+sengilberge;4;ProteinaseK_LuXo4;20;CD028119;B11-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:21;Salt-Grid_hampton;0,15M sodium dihydrogen phosphate monohydrate;0,85M di-potassium hydrogen phosphate;
+sengilberge;4;ProteinaseK_LuXo4;20;CD028119;C12-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:21;Salt-Grid_hampton;0,056M sodium dihydrogen phosphate monohydrate;1,344M di-potassium hydrogen phosphate;
+sengilberge;4;ProteinaseK_LuXo4;20;CD028119;C11-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:21;Salt-Grid_hampton;0,21M sodium dihydrogen phosphate monohydrate;1,19M di-potassium hydrogen phosphate;
+sengilberge;4;ProteinaseK_LuXo4;20;CD028119;C10-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:21;Salt-Grid_hampton;0,49M sodium dihydrogen phosphate monohydrate;0,91M di-potassium hydrogen phosphate;
+sengilberge;4;ProteinaseK_LuXo4;20;CD028119;C08-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:21;Salt-Grid_hampton;1,26M sodium dihydrogen phosphate monohydrate;0,14M di-potassium hydrogen phosphate;
+sengilberge;6;ProteinaseK_LuXo4;20;CD028119;C07-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:21;Salt-Grid_hampton;1,372M sodium dihydrogen phosphate monohydrate;0,028M di-potassium hydrogen phosphate;
+sengilberge;4;ProteinaseK_LuXo4;20;CD028119;B12-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:21;Salt-Grid_hampton;0,04M sodium dihydrogen phosphate monohydrate;0,96M di-potassium hydrogen phosphate;
+sengilberge;4;ProteinaseK_LuXo4;20;CD028119;B10-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:21;Salt-Grid_hampton;0,35M sodium dihydrogen phosphate monohydrate;0,65M di-potassium hydrogen phosphate;
+sengilberge;4;ProteinaseK_LuXo4;20;CD028119;B08-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:21;Salt-Grid_hampton;0,9M sodium dihydrogen phosphate monohydrate;0,1M di-potassium hydrogen phosphate;
+sengilberge;6;ProteinaseK_LuXo4;20;CD028119;B07-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:21;Salt-Grid_hampton;0,98M sodium dihydrogen phosphate monohydrate;0,02M di-potassium hydrogen phosphate;
+sengilberge;4;ProteinaseK_LuXo4;20;CD028119;B06-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:21;Salt-Grid_hampton;0,1M bicine pH9;1,6M ammonium sulfate;
+sengilberge;4;ProteinaseK_LuXo4;20;CD028119;B01-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:21;Salt-Grid_hampton;0,1M citric acid pH4;1,6M ammonium sulfate;
+sengilberge;4;ProteinaseK_LuXo4;20;CD028119;A12-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:21;Salt-Grid_hampton;0,032M sodium dihydrogen phosphate monohydrate;0,768M di-potassium hydrogen phosphate;
+sengilberge;4;ProteinaseK_LuXo4;20;CD028119;A11-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:21;Salt-Grid_hampton;0,12M sodium dihydrogen phosphate monohydrate;0,68M di-potassium hydrogen phosphate;
+sengilberge;4;ProteinaseK_LuXo4;20;CD028119;A10-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:21;Salt-Grid_hampton;0,28M sodium dihydrogen phosphate monohydrate;0,52M di-potassium hydrogen phosphate;
+sengilberge;4;ProteinaseK_LuXo4;20;CD028119;D08-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:21;Salt-Grid_hampton;1,62M sodium dihydrogen phosphate monohydrate;0,18M di-potassium hydrogen phosphate;
+sengilberge;5;ProteinaseK_LuXo4;20;CD028119;D10-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:21;Salt-Grid_hampton;0,63M sodium dihydrogen phosphate monohydrate;1,17M di-potassium hydrogen phosphate;
+sengilberge;4;ProteinaseK_LuXo4;20;CD028119;D11-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:21;Salt-Grid_hampton;0,27M sodium dihydrogen phosphate monohydrate;1,53M di-potassium hydrogen phosphate;
+sengilberge;4;ProteinaseK_LuXo4;20;CD028119;D12-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:21;Salt-Grid_hampton;0,072M sodium dihydrogen phosphate monohydrate;1,728M di-potassium hydrogen phosphate;
+sengilberge;6;ProteinaseK_LuXo4;20;CD027974;E02-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 01:16;Wizard_I+II_rigaku;0,2M lithium sulfate;0,1M MES/NaOH pH6;35%(v/v) 2-methyl-2.4-pentanediol
+sengilberge;4;ProteinaseK_LuXo4;20;CD027974;D11-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 01:16;Wizard_I+II_rigaku;0,2M lithium sulfate;0,1M Tris base/HCl pH8,5;1,26M ammonium sulfate
+sengilberge;4;ProteinaseK_LuXo4;20;CD027974;E01-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 01:16;Wizard_I+II_rigaku;0,2M zinc acetate;0,1M sodium acetate/citric acid pH4,5;10 %(w/v) PEG-3000
+sengilberge;6;ProteinaseK_LuXo4;20;CD027974;E03-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 01:16;Wizard_I+II_rigaku;0,2M magnesium chloride;0,1M Tris base/HCl pH8,5;20 %(w/v) PEG-8000
+sengilberge;6;ProteinaseK_LuXo4;20;CD027974;E07-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 01:16;Wizard_I+II_rigaku;0,2M sodium chloride;0,1M Tris base/HCl pH7;30 %(w/v) PEG-3000
+sengilberge;6;ProteinaseK_LuXo4;20;CD027974;E09-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 01:16;Wizard_I+II_rigaku;0,1M sodium phosphate dibasic/citric acid pH4,2;2M ammonium sulfate;
+sengilberge;4;ProteinaseK_LuXo4;20;CD027974;E12-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 01:16;Wizard_I+II_rigaku;0,2M lithium sulfate;0,1M sodium cacodylate/HCl pH6,5;30%(v/v) PEG-400
+sengilberge;4;ProteinaseK_LuXo4;20;CD027974;D02-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 01:16;Wizard_I+II_rigaku;0,2M lithium sulfate;0,1M CHES/NaOH pH9,5;1M potassium/sodium tartrate
+sengilberge;*;ProteinaseK_LuXo4;20;CD027974;F11-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 01:16;Wizard_I+II_rigaku;0,2M magnesium chloride;0,1M HEPES/NaOH pH7,5;15%(v/v) reagent alcohol*
+sengilberge;6;ProteinaseK_LuXo4;20;CD027974;A06-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 01:16;Wizard_I+II_rigaku;0,1M sodium citrate/citric acid pH5,5;20 %(w/v) PEG-3000;
+sengilberge;4;ProteinaseK_LuXo4;20;CD027974;B04-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 01:16;Wizard_I+II_rigaku;0,1M potassium phosphate monobasic/sodium phosphate dibasic pH6,2;2,5M sodium chloride;
+sengilberge;6;ProteinaseK_LuXo4;20;CD027974;B05-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 01:16;Wizard_I+II_rigaku;0,2M lithium sulfate;0,1M sodium acetate/citric acid pH4,5;30 %(w/v) PEG-8000
+sengilberge;4;ProteinaseK_LuXo4;20;CD027974;C07-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 01:16;Wizard_I+II_rigaku;0,2M sodium chloride;0,1M sodium phosphate dibasic/citric acid pH4,2;20 %(w/v) PEG-8000
+sengilberge;4;ProteinaseK_LuXo4;20;CD027974;C10-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 01:16;Wizard_I+II_rigaku;0,1M imidazole/HCl pH8;1M ammonium phosphate dibasic;
+sengilberge;4;ProteinaseK_LuXo4;20;CD027974;C12-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 01:16;Wizard_I+II_rigaku;0,1M imidazole/HCl pH8;1M sodium citrate tribasic;
+sengilberge;6;ProteinaseK_LuXo4;20;CD027974;F03-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 01:16;Wizard_I+II_rigaku;0,1M HEPES/NaOH pH7,5;1,26M ammonium sulfate;
+sengilberge;6;ProteinaseK_LuXo4;20;CD027974;G01-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 01:16;Wizard_I+II_rigaku;0,2M sodium chloride;0,1M HEPES/NaOH pH7,5;35%(v/v) 2-methyl-2.4-pentanediol
+sengilberge;5;ProteinaseK_LuXo4;20;CD027974;G09-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 01:16;Wizard_I+II_rigaku;0,2M sodium chloride;0,1M sodium citrate/citric acid pH5,5;1M ammonium phosphate dibasic
+sengilberge;4;ProteinaseK_LuXo4;20;CD027974;G11-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 01:16;Wizard_I+II_rigaku;0,1M sodium acetate/citric acid pH4,5;0,8M sodium phosphate monobasic;
+sengilberge;4;ProteinaseK_LuXo4;20;CD027974;H09-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 01:16;Wizard_I+II_rigaku;0,1M MES/NaOH pH6;1,26M ammonium sulfate;
+sengilberge;4;ProteinaseK_LuXo4;20;CD027974;H10-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 01:16;Wizard_I+II_rigaku;0,2M sodium chloride;0,1M imidazole/HCl pH8;1M ammonium phosphate dibasic
+sengilberge;4;ProteinaseK_LuXo4;20;CD028004;B08-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 02:34;PACT_MD;0.2M ammonium chloride;0.1M MES pH6;20% w/v PEG 6000
+sengilberge;6;ProteinaseK_LuXo4;20;CD028004;D08-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 02:34;PACT_MD;0.2M ammonium chloride;0.1M tris pH8;20% w/v PEG 6000
+sengilberge;6;ProteinaseK_LuXo4;20;CD028004;D07-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 02:34;PACT_MD;0.2M sodium chloride;0.1M tris pH8;20% w/v PEG 6000
+sengilberge;4;ProteinaseK_LuXo4;20;CD028004;C09-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 02:34;PACT_MD;0.2M lithium chloride;0.1M HEPES pH7;20% w/v PEG 6000
+sengilberge;4;ProteinaseK_LuXo4;20;CD028004;C08-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 02:34;PACT_MD;0.2M ammonium chloride;0.1M HEPES pH7;20% w/v PEG 6000
+sengilberge;4;ProteinaseK_LuXo4;20;CD028004;C07-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 02:34;PACT_MD;0.2M sodium chloride;0.1M HEPES pH7;20% w/v PEG 6000
+sengilberge;4;ProteinaseK_LuXo4;20;CD028004;B11-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 02:34;PACT_MD;0.2M calcium chloride dihydrate;0.1M MES pH6;20% w/v PEG 6000
+sengilberge;4;ProteinaseK_LuXo4;20;CD028004;B10-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 02:34;PACT_MD;0.2M magnesium chloride hexahydrate;0.1M MES pH6;20% w/v PEG 6000
+sengilberge;4;ProteinaseK_LuXo4;20;CD028004;B09-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 02:34;PACT_MD;0.2M lithium chloride;0.1M MES pH6;20% w/v PEG 6000
+sengilberge;4;ProteinaseK_LuXo4;20;CD028004;E01-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 02:34;PACT_MD;0.2M sodium fluoride;20% w/v PEG 3350;
+sengilberge;4;ProteinaseK_LuXo4;20;CD028004;A08-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 02:34;PACT_MD;0.2M ammonium chloride;0.1M sodium acetate trihydrate pH5;20% w/v PEG 6000
+sengilberge;6;ProteinaseK_LuXo4;20;CD028004;A09-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 02:34;PACT_MD;0.2M lithium chloride;0.1M sodium acetate trihydrate pH5;20% w/v PEG 6000
+sengilberge;6;ProteinaseK_LuXo4;20;CD028004;A01-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 02:34;PACT_MD;0.1M SPG buffer pH4;25% w/v PEG 1500;
+sengilberge;6;ProteinaseK_LuXo4;20;CD028004;D09-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 02:34;PACT_MD;0.2M lithium chloride;0.1M tris pH8;20% w/v PEG 6000
+sengilberge;6;ProteinaseK_LuXo4;20;CD028004;E02-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 02:34;PACT_MD;0.2M sodium bromide;20% w/v PEG 3350;
+sengilberge;4;ProteinaseK_LuXo4;20;CD028004;G08-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 02:34;PACT_MD;0.2M sodium sulfate;0.1M Bis Tris propane pH7.5;20% w/v PEG 3350
+sengilberge;6;ProteinaseK_LuXo4;20;CD028004;E08-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 02:34;PACT_MD;0.2M sodium sulfate;20% w/v PEG 3350;
+sengilberge;4;ProteinaseK_LuXo4;20;CD028004;F05-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 02:34;PACT_MD;0.2M sodium nitrate;0.1M Bis Tris propane pH6.5;20% w/v PEG 3350
+sengilberge;4;ProteinaseK_LuXo4;20;CD028004;F12-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 02:34;PACT_MD;0.2M sodium malonate dibasic monohydrate;0.1M Bis Tris propane pH6.5;20% w/v PEG 3350
+sengilberge;6;ProteinaseK_LuXo4;20;CD028004;H08-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 02:34;PACT_MD;0.2M sodium sulfate;0.1M Bis Tris propane pH8.5;20% w/v PEG 3350
