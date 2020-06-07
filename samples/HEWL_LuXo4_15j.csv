@@ -1,0 +1,207 @@
+User;Score;Sample;Concentration;Plate Barcode;Drop;Platetype;Robot;Image Type;Run Date;screen;Components;;
+sengilberge;6;HEWL_LuXo4;20;CD028003;A04-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.1M SPG buffer pH7;25% w/v PEG 1500;
+sengilberge;6;HEWL_LuXo4;20;CD028003;E11-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M sodium citrate tribasic dihydrate;20% w/v PEG 3350;
+sengilberge;6;HEWL_LuXo4;20;CD028003;F09-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M potassium sodium tartrate tetrahydrate;0.1M Bis Tris propane pH6.5;20% w/v PEG 3350
+sengilberge;6;HEWL_LuXo4;20;CD028003;F08-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M sodium sulfate;0.1M Bis Tris propane pH6.5;20% w/v PEG 3350
+sengilberge;6;HEWL_LuXo4;20;CD028003;F07-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M sodium acetate trihydrate;0.1M Bis Tris propane pH6.5;20% w/v PEG 3350
+sengilberge;6;HEWL_LuXo4;20;CD028003;F06-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M sodium formate;0.1M Bis Tris propane pH6.5;20% w/v PEG 3350
+sengilberge;6;HEWL_LuXo4;20;CD028003;F05-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M sodium nitrate;0.1M Bis Tris propane pH6.5;20% w/v PEG 3350
+sengilberge;6;HEWL_LuXo4;20;CD028003;E12-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M sodium malonate dibasic monohydrate;20% w/v PEG 3350;
+sengilberge;6;HEWL_LuXo4;20;CD028003;F02-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M sodium bromide;0.1M Bis Tris propane pH6.5;20% w/v PEG 3350
+sengilberge;6;HEWL_LuXo4;20;CD028003;E09-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M potassium sodium tartrate tetrahydrate;20% w/v PEG 3350;
+sengilberge;6;HEWL_LuXo4;20;CD028003;E06-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M sodium formate;20% w/v PEG 3350;
+sengilberge;4;HEWL_LuXo4;20;CD028003;E04-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M potassium thiocyanate;20% w/v PEG 3350;
+sengilberge;6;HEWL_LuXo4;20;CD028003;E03-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M sodium iodide;20% w/v PEG 3350;
+sengilberge;6;HEWL_LuXo4;20;CD028003;E02-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M sodium bromide;20% w/v PEG 3350;
+sengilberge;6;HEWL_LuXo4;20;CD028003;E01-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M sodium fluoride;20% w/v PEG 3350;
+sengilberge;6;HEWL_LuXo4;20;CD028003;F11-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M sodium citrate tribasic dihydrate;0.1M Bis Tris propane pH6.5;20% w/v PEG 3350
+sengilberge;6;HEWL_LuXo4;20;CD028003;G12-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M sodium malonate dibasic monohydrate;0.1M Bis Tris propane pH7.5;20% w/v PEG 3350
+sengilberge;6;HEWL_LuXo4;20;CD028003;H09-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M potassium sodium tartrate tetrahydrate;0.1M Bis Tris propane pH8.5;20% w/v PEG 3350
+sengilberge;6;HEWL_LuXo4;20;CD028003;H08-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M sodium sulfate;0.1M Bis Tris propane pH8.5;20% w/v PEG 3350
+sengilberge;4;HEWL_LuXo4;20;CD028003;H07-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M sodium acetate trihydrate;0.1M Bis Tris propane pH8.5;20% w/v PEG 3350
+sengilberge;6;HEWL_LuXo4;20;CD028003;H02-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M sodium bromide;0.1M Bis Tris propane pH8.5;20% w/v PEG 3350
+sengilberge;6;HEWL_LuXo4;20;CD028003;H01-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M sodium fluoride;0.1M Bis Tris propane pH8.5;20% w/v PEG 3350
+sengilberge;6;HEWL_LuXo4;20;CD028003;G11-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M sodium citrate tribasic dihydrate;0.1M Bis Tris propane pH7.5;20% w/v PEG 3350
+sengilberge;6;HEWL_LuXo4;20;CD028003;F12-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M sodium malonate dibasic monohydrate;0.1M Bis Tris propane pH6.5;20% w/v PEG 3350
+sengilberge;6;HEWL_LuXo4;20;CD028003;G09-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M potassium sodium tartrate tetrahydrate;0.1M Bis Tris propane pH7.5;20% w/v PEG 3350
+sengilberge;6;HEWL_LuXo4;20;CD028003;G06-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M sodium formate;0.1M Bis Tris propane pH7.5;20% w/v PEG 3350
+sengilberge;6;HEWL_LuXo4;20;CD028003;G07-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M sodium acetate trihydrate;0.1M Bis Tris propane pH7.5;20% w/v PEG 3350
+sengilberge;6;HEWL_LuXo4;20;CD028003;G02-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M sodium bromide;0.1M Bis Tris propane pH7.5;20% w/v PEG 3350
+sengilberge;6;HEWL_LuXo4;20;CD028003;G01-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M sodium fluoride;0.1M Bis Tris propane pH7.5;20% w/v PEG 3350
+sengilberge;6;HEWL_LuXo4;20;CD028003;E05-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M sodium nitrate;20% w/v PEG 3350;
+sengilberge;6;HEWL_LuXo4;20;CD028003;D11-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M calcium chloride dihydrate;0.1M tris pH8;20% w/v PEG 6000
+sengilberge;6;HEWL_LuXo4;20;CD028003;B03-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.1M MIB buffer pH6;25% w/v PEG 1500;
+sengilberge;6;HEWL_LuXo4;20;CD028003;B08-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M ammonium chloride;0.1M MES pH6;20% w/v PEG 6000
+sengilberge;6;HEWL_LuXo4;20;CD028003;B07-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M sodium chloride;0.1M MES pH6;20% w/v PEG 6000
+sengilberge;6;HEWL_LuXo4;20;CD028003;B06-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.1M MIB buffer pH9;25% w/v PEG 1500;
+sengilberge;6;HEWL_LuXo4;20;CD028003;D10-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M magnesium chloride hexahydrate;0.1M tris pH8;20% w/v PEG 6000
+sengilberge;6;HEWL_LuXo4;20;CD028003;B04-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.1M MIB buffer pH7;25% w/v PEG 1500;
+sengilberge;6;HEWL_LuXo4;20;CD028003;A11-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M calcium chloride dihydrate;0.1M sodium acetate trihydrate pH5;20% w/v PEG 6000
+sengilberge;6;HEWL_LuXo4;20;CD028003;A10-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M magnesium chloride hexahydrate;0.1M sodium acetate trihydrate pH5;20% w/v PEG 6000
+sengilberge;6;HEWL_LuXo4;20;CD028003;A09-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M lithium chloride;0.1M sodium acetate trihydrate pH5;20% w/v PEG 6000
+sengilberge;6;HEWL_LuXo4;20;CD028003;A08-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M ammonium chloride;0.1M sodium acetate trihydrate pH5;20% w/v PEG 6000
+sengilberge;6;HEWL_LuXo4;20;CD028003;A07-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M sodium chloride;0.1M sodium acetate trihydrate pH5;20% w/v PEG 6000
+sengilberge;6;HEWL_LuXo4;20;CD028003;A05-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.1M SPG buffer pH8;25% w/v PEG 1500;
+sengilberge;6;HEWL_LuXo4;20;CD028003;B09-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M lithium chloride;0.1M MES pH6;20% w/v PEG 6000
+sengilberge;6;HEWL_LuXo4;20;CD028003;B05-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.1M MIB buffer pH8;25% w/v PEG 1500;
+sengilberge;6;HEWL_LuXo4;20;CD028003;B10-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M magnesium chloride hexahydrate;0.1M MES pH6;20% w/v PEG 6000
+sengilberge;6;HEWL_LuXo4;20;CD028003;D09-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M lithium chloride;0.1M tris pH8;20% w/v PEG 6000
+sengilberge;6;HEWL_LuXo4;20;CD028003;D08-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M ammonium chloride;0.1M tris pH8;20% w/v PEG 6000
+sengilberge;6;HEWL_LuXo4;20;CD028003;D07-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M sodium chloride;0.1M tris pH8;20% w/v PEG 6000
+sengilberge;6;HEWL_LuXo4;20;CD028003;D04-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.1M MMT buffer pH7;25% w/v PEG 1500;
+sengilberge;6;HEWL_LuXo4;20;CD028003;D01-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.1M MMT buffer pH4;25% w/v PEG 1500;
+sengilberge;6;HEWL_LuXo4;20;CD028003;C11-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M calcium chloride dihydrate;0.1M HEPES pH7;20% w/v PEG 6000
+sengilberge;6;HEWL_LuXo4;20;CD028003;C07-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M sodium chloride;0.1M HEPES pH7;20% w/v PEG 6000
+sengilberge;6;HEWL_LuXo4;20;CD028003;B11-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M calcium chloride dihydrate;0.1M MES pH6;20% w/v PEG 6000
+sengilberge;6;HEWL_LuXo4;20;CD028003;C08-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M ammonium chloride;0.1M HEPES pH7;20% w/v PEG 6000
+sengilberge;6;HEWL_LuXo4;20;CD028003;C09-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M lithium chloride;0.1M HEPES pH7;20% w/v PEG 6000
+sengilberge;6;HEWL_LuXo4;20;CD028003;C10-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 04:59;PACT_MD;0.2M magnesium chloride hexahydrate;0.1M HEPES pH7;20% w/v PEG 6000
+zalsalman;*;HEWL_LuXo4;20;CD028051;A04-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:43;Classics-Suite_qiagen;5%(v/v) isopropanol;2M ammonium sulfate;
+zalsalman;6;HEWL_LuXo4;20;CD028051;D11-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:43;Classics-Suite_qiagen;0,1M sodium acetate pH4,6;2M sodium formate;
+sengilberge;4;HEWL_LuXo4;20;CD028051;C03-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:43;Classics-Suite_qiagen;0,1M TRIS HCl pH8,5;2M ammonium phosphate;
+sengilberge;6;HEWL_LuXo4;20;CD028051;A05-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:43;Classics-Suite_qiagen;0,1M HEPES sodium salt pH7,5;10%(v/v) isopropanol;20 %(w/v) PEG 4000
+zalsalman;6;HEWL_LuXo4;20;CD028051;H10-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:43;Classics-Suite_qiagen;10 %(w/v) PEG 6000;2M sodium chloride;
+zalsalman;6;HEWL_LuXo4;20;CD028051;E04-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:43;Classics-Suite_qiagen;0,5M sodium chloride;0,1M tri-sodium citrate pH5,6;2%(v/v) ethylene imine polymer
+zalsalman;6;HEWL_LuXo4;20;CD028051;D12-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:43;Classics-Suite_qiagen;4M sodium formate;;
+zalsalman;6;HEWL_LuXo4;20;CD028051;H04-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:43;Classics-Suite_qiagen;0,2M magnesium chloride;0,1M TRIS HCl pH8,5;30 %(w/v) PEG 4000
+zalsalman;6;HEWL_LuXo4;20;CD028051;D08-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:43;Classics-Suite_qiagen;0,1M HEPES sodium salt pH7,5;1,4M tri-sodium citrate;
+zalsalman;6;HEWL_LuXo4;20;CD028051;A07-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:43;Classics-Suite_qiagen;0,1M tri-sodium citrate pH5,6;20%(v/v) isopropanol;20 %(w/v) PEG 4000
+zalsalman;6;HEWL_LuXo4;20;CD028051;C04-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:43;Classics-Suite_qiagen;0,1M HEPES pH7,5;2M ammonium formate;
+zalsalman;6;HEWL_LuXo4;20;CD028051;A10-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:43;Classics-Suite_qiagen;0,2M magnesium chloride;0,1M HEPES sodium salt pH7,5;30%(v/v) isopropanol
+zalsalman;6;HEWL_LuXo4;20;CD028051;D01-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:43;Classics-Suite_qiagen;0,1M HEPES sodium salt pH7,5;0,8M potassium/sodium tartrate;
+zalsalman;6;HEWL_LuXo4;20;CD028051;D02-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:43;Classics-Suite_qiagen;0,1M imidazole pH6,5;1M sodium acetate;
+zalsalman;6;HEWL_LuXo4;20;CD028051;D05-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:43;Classics-Suite_qiagen;0,1M sodium acetate pH4,6;2M sodium chloride;
+sengilberge;4;HEWL_LuXo4;20;CD028118;G02-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:18;Salt-Grid_hampton;1,5M malonate;;
+sengilberge;6;HEWL_LuXo4;20;CD028118;G01-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:18;Salt-Grid_hampton;1M malonate;;
+sengilberge;6;HEWL_LuXo4;20;CD028118;F12-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:18;Salt-Grid_hampton;0,1M bicine pH9;1,6M sodium formate pH9;
+sengilberge;6;HEWL_LuXo4;20;CD028118;F11-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:18;Salt-Grid_hampton;0,1M TRIS pH8;1,6M sodium formate pH8;
+sengilberge;6;HEWL_LuXo4;20;CD028118;F10-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:18;Salt-Grid_hampton;0,1M HEPES pH7;1,6M sodium formate pH7;
+sengilberge;6;HEWL_LuXo4;20;CD028118;F09-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:18;Salt-Grid_hampton;0,1M MES pH6;1,6M sodium formate pH6;
+sengilberge;6;HEWL_LuXo4;20;CD028118;F08-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:18;Salt-Grid_hampton;0,1M citric acid pH5;1,6M sodium formate pH5;
+sengilberge;6;HEWL_LuXo4;20;CD028118;F07-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:18;Salt-Grid_hampton;0,1M citric acid pH4;1,6M sodium formate pH4;
+sengilberge;6;HEWL_LuXo4;20;CD028118;F04-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:18;Salt-Grid_hampton;2,4M malonate;;
+sengilberge;6;HEWL_LuXo4;20;CD028118;F03-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:18;Salt-Grid_hampton;1,9M malonate;;
+sengilberge;6;HEWL_LuXo4;20;CD028118;G03-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:18;Salt-Grid_hampton;1,9M malonate;;
+sengilberge;6;HEWL_LuXo4;20;CD028118;G07-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:18;Salt-Grid_hampton;0,1M citric acid pH4;2,4M sodium formate pH4;
+sengilberge;6;HEWL_LuXo4;20;CD028118;H10-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:18;Salt-Grid_hampton;0,1M HEPES pH7;3,2M sodium formate pH7;
+sengilberge;6;HEWL_LuXo4;20;CD028118;H09-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:18;Salt-Grid_hampton;0,1M MES pH6;3,2M sodium formate pH6;
+sengilberge;4;HEWL_LuXo4;20;CD028118;H02-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:18;Salt-Grid_hampton;1,5M malonate;;
+sengilberge;6;HEWL_LuXo4;20;CD028118;H01-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:18;Salt-Grid_hampton;1M malonate;;
+sengilberge;4;HEWL_LuXo4;20;CD028118;G11-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:18;Salt-Grid_hampton;0,1M TRIS pH8;2,4M sodium formate pH8;
+sengilberge;6;HEWL_LuXo4;20;CD028118;G10-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:18;Salt-Grid_hampton;0,1M HEPES pH7;2,4M sodium formate pH7;
+sengilberge;6;HEWL_LuXo4;20;CD028118;G09-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:18;Salt-Grid_hampton;0,1M MES pH6;2,4M sodium formate pH6;
+sengilberge;4;HEWL_LuXo4;20;CD028118;G08-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:18;Salt-Grid_hampton;0,1M citric acid pH5;2,4M sodium formate pH5;
+sengilberge;6;HEWL_LuXo4;20;CD028118;F02-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:18;Salt-Grid_hampton;1,5M malonate;;
+sengilberge;6;HEWL_LuXo4;20;CD028118;E02-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:18;Salt-Grid_hampton;1,5M malonate;;
+sengilberge;6;HEWL_LuXo4;20;CD028118;E01-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:18;Salt-Grid_hampton;1M malonate;;
+sengilberge;4;HEWL_LuXo4;20;CD028118;D10-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:18;Salt-Grid_hampton;0,63M sodium dihydrogen phosphate monohydrate;1,17M di-potassium hydrogen phosphate;
+sengilberge;4;HEWL_LuXo4;20;CD028118;C06-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:18;Salt-Grid_hampton;0,1M bicine pH9;2,4M ammonium sulfate;
+sengilberge;6;HEWL_LuXo4;20;CD028118;C05-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:18;Salt-Grid_hampton;0,1M TRIS pH8;2,4M ammonium sulfate;
+sengilberge;4;HEWL_LuXo4;20;CD028118;C04-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:18;Salt-Grid_hampton;0,1M HEPES pH7;2,4M ammonium sulfate;
+sengilberge;4;HEWL_LuXo4;20;CD028118;C03-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:18;Salt-Grid_hampton;0,1M MES pH6;2,4M ammonium sulfate;
+sengilberge;4;HEWL_LuXo4;20;CD028118;B02-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:18;Salt-Grid_hampton;0,1M citric acid pH5;1,6M ammonium sulfate;
+sengilberge;6;HEWL_LuXo4;20;CD028118;E03-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:18;Salt-Grid_hampton;1,9M malonate;;
+sengilberge;6;HEWL_LuXo4;20;CD028118;F01-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:18;Salt-Grid_hampton;1M malonate;;
+sengilberge;6;HEWL_LuXo4;20;CD028118;E12-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:18;Salt-Grid_hampton;0,1M bicine pH9;0,8M sodium formate pH9;
+sengilberge;6;HEWL_LuXo4;20;CD028118;E11-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:18;Salt-Grid_hampton;0,1M TRIS pH8;0,8M sodium formate pH8;
+sengilberge;6;HEWL_LuXo4;20;CD028118;E04-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:18;Salt-Grid_hampton;2,4M malonate;;
+sengilberge;6;HEWL_LuXo4;20;CD028118;E10-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:18;Salt-Grid_hampton;0,1M HEPES pH7;0,8M sodium formate pH7;
+sengilberge;6;HEWL_LuXo4;20;CD028118;E09-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:18;Salt-Grid_hampton;0,1M MES pH6;0,8M sodium formate pH6;
+sengilberge;6;HEWL_LuXo4;20;CD028118;E05-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:18;Salt-Grid_hampton;2,9M malonate;;
+sengilberge;6;HEWL_LuXo4;20;CD028118;E06-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:18;Salt-Grid_hampton;3,4M malonate;;
+sengilberge;6;HEWL_LuXo4;20;CD028118;E07-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:18;Salt-Grid_hampton;0,1M citric acid pH4;0,8M sodium formate pH4;
+sengilberge;6;HEWL_LuXo4;20;CD028118;E08-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:18;Salt-Grid_hampton;0,1M citric acid pH5;0,8M sodium formate pH5;
+sengilberge;6;HEWL_LuXo4;20;CD027797;G01-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:37;JCSG_MD;0.1M HEPES pH7;30% v/v Jeffamine ED-2003;
+sengilberge;6;HEWL_LuXo4;20;CD027797;E03-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:37;JCSG_MD;0.2M sodium chloride;0.1M HEPES pH7.5;10% v/v 2-propanol
+sengilberge;6;HEWL_LuXo4;20;CD027797;E09-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:37;JCSG_MD;0.1M MES pH6.5;1.6M magnesium sulfate heptahydrate;
+sengilberge;6;HEWL_LuXo4;20;CD027797;F04-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:37;JCSG_MD;0.1M HEPES pH7.5;20% v/v Jeffamine M-600;
+sengilberge;6;HEWL_LuXo4;20;CD027797;F07-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:37;JCSG_MD;0.8M succinic acid;;
+sengilberge;6;HEWL_LuXo4;20;CD027797;F10-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:37;JCSG_MD;1.1M sodium malonate dibasic monohydrate;0.1M HEPES pH7;0.5% v/v Jeffamine ED-2003
+sengilberge;6;HEWL_LuXo4;20;CD027797;F11-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:37;JCSG_MD;1M succinic acid;0.1M HEPES pH7;1% w/v PEG 2K MME
+sengilberge;6;HEWL_LuXo4;20;CD027797;G02-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:37;JCSG_MD;0.02M magnesium chloride hexahydrate;0.1M HEPES pH7.5;22% w/v Poly(acrylic acid sodium salt) 5100
+sengilberge;6;HEWL_LuXo4;20;CD027797;G06-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:37;JCSG_MD;0.2M sodium malonate dibasic monohydrate;20% w/v PEG 3350;
+sengilberge;6;HEWL_LuXo4;20;CD027797;G08-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:37;JCSG_MD;0.15M DL- malic acid;20% w/v PEG 3350;
+sengilberge;6;HEWL_LuXo4;20;CD027797;G10-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:37;JCSG_MD;0.15M potassium bromide;30% w/v PEG 2K MME;
+sengilberge;4;HEWL_LuXo4;20;CD027797;G11-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:37;JCSG_MD;0.1M Bis Tris pH5.5;2M ammonium sulfate;
+sengilberge;6;HEWL_LuXo4;20;CD027797;H07-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:37;JCSG_MD;0.2M ammonium sulfate;0.1M Bis Tris pH5.5;25% w/v PEG 3350
+sengilberge;6;HEWL_LuXo4;20;CD027797;H08-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:37;JCSG_MD;0.2M sodium chloride;0.1M Bis Tris pH5.5;25% w/v PEG 3350
+sengilberge;6;HEWL_LuXo4;20;CD027797;H09-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:37;JCSG_MD;0.2M lithium sulfate;0.1M Bis Tris pH5.5;25% w/v PEG 3350
+sengilberge;6;HEWL_LuXo4;20;CD027797;H11-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:37;JCSG_MD;0.2M magnesium chloride hexahydrate;0.1M Bis Tris pH5.5;25% w/v PEG 3350
+sengilberge;4;HEWL_LuXo4;20;CD027797;E02-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:37;JCSG_MD;0.2M sodium chloride;0.1M sodium cacodylate pH6.5;2M ammonium sulfate
+sengilberge;6;HEWL_LuXo4;20;CD027797;D09-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:37;JCSG_MD;0.17M ammonium sulfate;25.5% w/v PEG 4K;15% v/v Glycerol
+sengilberge;6;HEWL_LuXo4;20;CD027797;B08-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:37;JCSG_MD;0.2M magnesium chloride hexahydrate;0.1M tris pH7;10% w/v PEG 8K
+sengilberge;6;HEWL_LuXo4;20;CD027797;A02-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:37;JCSG_MD;0.1M sodium citrate pH5.5;20% w/v PEG 3K;
+sengilberge;6;HEWL_LuXo4;20;CD027797;A03-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:37;JCSG_MD;0.2M Ammonium citrate dibasic;20% w/v PEG 3350;
+sengilberge;6;HEWL_LuXo4;20;CD027797;A08-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:37;JCSG_MD;0.2M ammonium formate;20% w/v PEG 3350;
+sengilberge;6;HEWL_LuXo4;20;CD027797;A09-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:37;JCSG_MD;0.2M ammonium chloride;20% w/v PEG 3350;
+sengilberge;6;HEWL_LuXo4;20;CD027797;A10-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:37;JCSG_MD;0.2M potassium formate;20% w/v PEG 3350;
+sengilberge;6;HEWL_LuXo4;20;CD027797;A12-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:37;JCSG_MD;0.2M potassium nitrate;20% w/v PEG 3350;
+sengilberge;6;HEWL_LuXo4;20;CD027797;D06-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:37;JCSG_MD;0.2M magnesium chloride hexahydrate;0.1M tris pH8.5;20% w/v PEG 8K
+sengilberge;6;HEWL_LuXo4;20;CD027797;B06-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:37;JCSG_MD;0.1M phosphate/citrate pH4.2;40% v/v Ethanol;5% w/v PEG 1K
+sengilberge;4;HEWL_LuXo4;20;CD027797;B02-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:37;JCSG_MD;0.2M sodium thiocyanate;20% w/v PEG 3350;
+sengilberge;6;HEWL_LuXo4;20;CD027797;C02-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:37;JCSG_MD;1M lithium chloride;0.1M citrate pH4;20% w/v PEG 6K
+sengilberge;4;HEWL_LuXo4;20;CD027797;C11-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:37;JCSG_MD;0.1M sodium acetate pH4.6;2M ammonium sulfate;
+sengilberge;6;HEWL_LuXo4;20;CD027797;C03-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:37;JCSG_MD;0.2M ammonium nitrate;20% w/v PEG 3350;
+sengilberge;6;HEWL_LuXo4;20;CD027797;C06-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:37;JCSG_MD;0.1M phosphate/citrate pH4.2;40% v/v PEG 300;
+sengilberge;6;HEWL_LuXo4;20;CD027797;C01-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:37;JCSG_MD;0.2M sodium chloride;0.1M phosphate/citrate pH4.2;20% w/v PEG 8K
+sengilberge;6;HEWL_LuXo4;20;CD027797;B12-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:37;JCSG_MD;0.2M potassium citrate tribasic monohydrate;20% w/v PEG 3350;
+sengilberge;6;HEWL_LuXo4;20;CD027797;B09-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;06/03/2020 05:37;JCSG_MD;0.1M citrate pH5;20% w/v PEG 6K;
+sengilberge;6;HEWL_LuXo4;20;CD027975;F07-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 12:58;Wizard_I+II_rigaku;0,1M sodium phosphate dibasic/citric acid pH4,2;1,6M sodium phosphate monobasic;0.4M potassium phosphate dibasic
+sengilberge;6;HEWL_LuXo4;20;CD027975;F11-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 12:58;Wizard_I+II_rigaku;0,2M magnesium chloride;0,1M HEPES/NaOH pH7,5;15%(v/v) reagent alcohol*
+sengilberge;4;HEWL_LuXo4;20;CD027975;G07-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 12:58;Wizard_I+II_rigaku;0,2M sodium chloride;0,1M Tris base/HCl pH7;1M sodium citrate tribasic
+sengilberge;4;HEWL_LuXo4;20;CD027975;G11-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 12:58;Wizard_I+II_rigaku;0,1M sodium acetate/citric acid pH4,5;0,8M sodium phosphate monobasic;
+sengilberge;6;HEWL_LuXo4;20;CD027975;H01-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 12:58;Wizard_I+II_rigaku;0,2M lithium sulfate;0,1M Tris base/HCl pH7;1M potassium/sodium tartrate
+sengilberge;6;HEWL_LuXo4;20;CD027975;H02-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 12:58;Wizard_I+II_rigaku;0,2M lithium sulfate;0,1M sodium acetate/citric acid pH4,5;2,5M sodium chloride
+sengilberge;6;HEWL_LuXo4;20;CD027975;H04-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 12:58;Wizard_I+II_rigaku;0,2M zinc acetate;0,1M imidazole/HCl pH8;20 %(w/v) PEG-3000
+sengilberge;4;HEWL_LuXo4;20;CD027975;H05-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 12:58;Wizard_I+II_rigaku;0,2M lithium sulfate;0,1M Tris base/HCl pH7;2M ammonium sulfate
+sengilberge;6;HEWL_LuXo4;20;CD027975;H07-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 12:58;Wizard_I+II_rigaku;0,2M magnesium chloride;0,1M Tris base/HCl pH7;10 %(w/v) PEG-8000
+sengilberge;6;HEWL_LuXo4;20;CD027975;H10-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 12:58;Wizard_I+II_rigaku;0,2M sodium chloride;0,1M imidazole/HCl pH8;1M ammonium phosphate dibasic
+sengilberge;6;HEWL_LuXo4;20;CD027975;H12-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 12:58;Wizard_I+II_rigaku;0,1M MES/NaOH pH6;1M potassium/sodium tartrate;
+sengilberge;6;HEWL_LuXo4;20;CD027975;F04-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 12:58;Wizard_I+II_rigaku;0,1M CHES/NaOH pH9,5;1M sodium citrate tribasic;
+sengilberge;6;HEWL_LuXo4;20;CD027975;E08-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 12:58;Wizard_I+II_rigaku;0,2M sodium chloride;0,1M potassium phosphate monobasic/sodium phosphate dibasic pH6,2;10 %(w/v) PEG-8000
+sengilberge;6;HEWL_LuXo4;20;CD027975;A06-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 12:58;Wizard_I+II_rigaku;0,1M sodium citrate/citric acid pH5,5;20 %(w/v) PEG-3000;
+sengilberge;5;HEWL_LuXo4;20;CD027975;B04-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 12:58;Wizard_I+II_rigaku;0,1M potassium phosphate monobasic/sodium phosphate dibasic pH6,2;2,5M sodium chloride;
+sengilberge;6;HEWL_LuXo4;20;CD027975;B06-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 12:58;Wizard_I+II_rigaku;0,2M sodium chloride;0,1M imidazole/HCl pH8;1M potassium/sodium tartrate
+sengilberge;6;HEWL_LuXo4;20;CD027975;E07-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 12:58;Wizard_I+II_rigaku;0,2M sodium chloride;0,1M Tris base/HCl pH7;30 %(w/v) PEG-3000
+sengilberge;6;HEWL_LuXo4;20;CD027975;C04-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 12:58;Wizard_I+II_rigaku;0,2M sodium chloride;0,1M HEPES/NaOH pH7,5;20 %(w/v) PEG-3000
+sengilberge;6;HEWL_LuXo4;20;CD027975;C05-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 12:58;Wizard_I+II_rigaku;0,2M sodium chloride;0,1M CHES/NaOH pH9,5;10 %(w/v) PEG-8000
+sengilberge;6;HEWL_LuXo4;20;CD027975;C07-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 12:58;Wizard_I+II_rigaku;0,2M sodium chloride;0,1M sodium phosphate dibasic/citric acid pH4,2;20 %(w/v) PEG-8000
+sengilberge;6;HEWL_LuXo4;20;CD027975;E03-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 12:58;Wizard_I+II_rigaku;0,2M magnesium chloride;0,1M Tris base/HCl pH8,5;20 %(w/v) PEG-8000
+sengilberge;4;HEWL_LuXo4;20;CD027975;E04-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 12:58;Wizard_I+II_rigaku;0,2M sodium chloride;0,1M sodium cacodylate/HCl pH6,5;2M ammonium sulfate
+sengilberge;6;HEWL_LuXo4;20;CD027975;D02-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 12:58;Wizard_I+II_rigaku;0,2M lithium sulfate;0,1M CHES/NaOH pH9,5;1M potassium/sodium tartrate
+sengilberge;6;HEWL_LuXo4;20;CD027975;C12-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 12:58;Wizard_I+II_rigaku;0,1M imidazole/HCl pH8;1M sodium citrate tribasic;
+sengilberge;6;HEWL_LuXo4;20;CD027975;C09-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 12:58;Wizard_I+II_rigaku;0,2M lithium sulfate;0,1M CAPS/NaOH pH10,5;2M ammonium sulfate
+zalsalman;5;HEWL_LuXo4;20;CD027949;B06-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:24;PEGs-I_qiagen;0,1M HEPES  sodium salt pH7,5;25%(w/v) PEG 2000 MME;
+zalsalman;6;HEWL_LuXo4;20;CD027949;G12-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:24;PEGs-I_qiagen;0,2M di-sodium tartrate;20%(w/v) PEG 3350;
+zalsalman;6;HEWL_LuXo4;20;CD027949;F03-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:24;PEGs-I_qiagen;0,2M lithium nitrate;20%(w/v) PEG 3350;
+zalsalman;6;HEWL_LuXo4;20;CD027949;F05-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:24;PEGs-I_qiagen;0,2M sodium nitrate;20%(w/v) PEG 3350;
+zalsalman;6;HEWL_LuXo4;20;CD027949;F06-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:24;PEGs-I_qiagen;0,2M potassium nitrate;20%(w/v) PEG 3350;
+zalsalman;6;HEWL_LuXo4;20;CD027949;F08-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:24;PEGs-I_qiagen;0,2M magnesium formate;20%(w/v) PEG 3350;
+zalsalman;6;HEWL_LuXo4;20;CD027949;F09-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:24;PEGs-I_qiagen;0,2M sodium formate;20%(w/v) PEG 3350;
+zalsalman;6;HEWL_LuXo4;20;CD027949;F10-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:24;PEGs-I_qiagen;0,2M potassium formate;20%(w/v) PEG 3350;
+zalsalman;6;HEWL_LuXo4;20;CD027949;F11-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:24;PEGs-I_qiagen;0,2M ammonium formate;20%(w/v) PEG 3350;
+zalsalman;6;HEWL_LuXo4;20;CD027949;G10-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:24;PEGs-I_qiagen;0,2M potassium sulfate;20%(w/v) PEG 3350;
+zalsalman;6;HEWL_LuXo4;20;CD027949;F02-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:24;PEGs-I_qiagen;0,2M potassium thiocyanate;20%(w/v) PEG 3350;
+zalsalman;6;HEWL_LuXo4;20;CD027949;H01-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:24;PEGs-I_qiagen;0,2M potassium/sodium tartrate;20%(w/v) PEG 3350;
+zalsalman;6;HEWL_LuXo4;20;CD027949;H02-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:24;PEGs-I_qiagen;0,2M di-ammonium tartrate;20%(w/v) PEG 3350;
+zalsalman;6;HEWL_LuXo4;20;CD027949;H04-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:24;PEGs-I_qiagen;0,2M di-sodium phosphate;20%(w/v) PEG 3350;
+zalsalman;6;HEWL_LuXo4;20;CD027949;H09-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:24;PEGs-I_qiagen;0,2M tri-lithium citrate;20%(w/v) PEG 3350;
+zalsalman;6;HEWL_LuXo4;20;CD027949;H10-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:24;PEGs-I_qiagen;0,2M tri-sodium citrate;20%(w/v) PEG 3350;
+sengilberge;6;HEWL_LuXo4;20;CD027949;D03-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:24;PEGs-I_qiagen;0,1M HEPES  sodium salt pH7,5;25%(w/v) PEG 6000;
+sengilberge;4;HEWL_LuXo4;20;CD027949;G07-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:24;PEGs-I_qiagen;0,2M lithium sulfate;20%(w/v) PEG 3350;
+zalsalman;6;HEWL_LuXo4;20;CD027949;E06-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:24;PEGs-I_qiagen;0,2M sodium chloride;20%(w/v) PEG 3350;
+zalsalman;6;HEWL_LuXo4;20;CD027949;C05-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:24;PEGs-I_qiagen;0,1M sodium acetate pH4,6;20%(w/v) PEG 10000;
+zalsalman;6;HEWL_LuXo4;20;CD027949;D04-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:24;PEGs-I_qiagen;0,1M HEPES  sodium salt pH7,5;25%(w/v) PEG 8000;
+zalsalman;6;HEWL_LuXo4;20;CD027949;D05-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:24;PEGs-I_qiagen;0,1M HEPES  sodium salt pH7,5;20%(w/v) PEG 10000;
+zalsalman;6;HEWL_LuXo4;20;CD027949;D11-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:24;PEGs-I_qiagen;0,1M TRIS HCl pH8,5;20%(w/v) PEG 10000;
+zalsalman;6;HEWL_LuXo4;20;CD027949;D12-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:24;PEGs-I_qiagen;0,1M TRIS HCl pH8,5;15%(w/v) PEG 20000;
+zalsalman;6;HEWL_LuXo4;20;CD027949;E01-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:24;PEGs-I_qiagen;0,2M sodium fluoride;20%(w/v) PEG 3350;
+zalsalman;6;HEWL_LuXo4;20;CD027949;E04-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:24;PEGs-I_qiagen;0,2M lithium chloride;20%(w/v) PEG 3350;
+zalsalman;6;HEWL_LuXo4;20;CD027949;E05-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:24;PEGs-I_qiagen;0,2M magnesium chloride;20%(w/v) PEG 3350;
+zalsalman;6;HEWL_LuXo4;20;CD027949;E07-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:24;PEGs-I_qiagen;0,2M calcium chloride;20%(w/v) PEG 3350;
+zalsalman;6;HEWL_LuXo4;20;CD027949;E08-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:24;PEGs-I_qiagen;0,2M potassium chloride;20%(w/v) PEG 3350;
+zalsalman;6;HEWL_LuXo4;20;CD027949;E09-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:24;PEGs-I_qiagen;0,2M ammonium chloride;20%(w/v) PEG 3350;
+zalsalman;6;HEWL_LuXo4;20;CD027949;E10-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:24;PEGs-I_qiagen;0,2M sodium iodide;20%(w/v) PEG 3350;
+zalsalman;6;HEWL_LuXo4;20;CD027949;E11-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:24;PEGs-I_qiagen;0,2M potassium iodide;20%(w/v) PEG 3350;
+zalsalman;4;HEWL_LuXo4;20;CD027949;E12-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:24;PEGs-I_qiagen;0,2M ammonium iodide;20%(w/v) PEG 3350;
+zalsalman;4;HEWL_LuXo4;20;CD027949;F01-3;CrystalDirect CD-2 Mitegen;Robot 20;Vis;09/03/2020 11:24;PEGs-I_qiagen;0,2M sodium thiocyanate;20%(w/v) PEG 3350;
