@@ -105,7 +105,7 @@ conditions = ['ph']
 no_mask = True
 #no_mask = False
 
-conn = connect('sengilberge.db')
+conn = connect('crystallophore.db')
 c = conn.cursor()
 # Find out the maximum number of drops
 # The plates have 8 rows 'A,B,...,H' and 12 columns
