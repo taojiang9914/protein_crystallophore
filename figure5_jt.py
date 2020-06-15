@@ -121,7 +121,7 @@ name_token  = complexes[0]+'_'+ complexes[1]
 
 path_prefix = 'figures'
 
-conn = connect('sengilberge.db')
+conn = connect('crystallophore.db')
 c = conn.cursor()
 # Find out the maximum number of drops
 # The plates have 8 rows 'A,B,...,H' and 12 columns
