@@ -16,7 +16,7 @@ kit_names = ['Wizard_I+II_rigaku',
             'PEGs-I_qiagen',
             'PACT_MD',
             'Classics-Suite_qiagen']
-conn = sqlite3.connect('crystallophore.db')
+conn = sqlite3.connect('example_crystallophore.db')
 c = conn.cursor()
 c.execute('''CREATE TABLE sample (id INTEGER PRIMARY KEY AUTOINCREMENT, protein text, plate text, well text)''')
 conn.commit() 
