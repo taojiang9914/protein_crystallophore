@@ -25,7 +25,7 @@ def plot_scores(complementary_list,proteins,complexes_pairs):
     plt.show()
 #===================================
 
-conn = connect('sengilberge.db')
+conn = connect('crystallophore.db')
 c = conn.cursor()
 complementary_list = []
 native_only = []
